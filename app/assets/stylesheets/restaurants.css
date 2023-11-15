@@ -1,0 +1,24 @@
+/* app/assets/stylesheets/restaurants.css */
+
+/* General Styles for Restaurants */
+.restaurant-listing {
+  background-color: #f8f9fa; /* Light grey background */
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.restaurant-title {
+  color: #007bff; /* Bootstrap primary blue */
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.restaurant-category {
+  color: #28a745; /* Bootstrap success green */
+  font-weight: bold;
+}
+
+.restaurant-address {
+  color: #6c757d; /* Bootstrap secondary color */
+}
